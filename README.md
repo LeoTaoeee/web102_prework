@@ -33,7 +33,7 @@ GIF created with licecap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Only unexpected challenge I had was having to add some css to make the images of the games stay in their container. 
 
 ## License
 
